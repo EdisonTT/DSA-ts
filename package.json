@@ -1,0 +1,16 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "Learn DSA",
+  "main": "dist/app.js",
+  "scripts": {
+    "start": "tsc && node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edison T T",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.13.15",
+    "typescript": "^5.8.2"
+  }
+}
